@@ -1,7 +1,6 @@
 .env
 .agents/
 config/
-database/
 vendor/
 .gemini/
 evaluacion_sistema.txt
